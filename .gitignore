@@ -1,2 +1,5 @@
 #Ignore temporary~ files
 *~
+
+#Ignore .Vagrant dir
+.vagrant/
