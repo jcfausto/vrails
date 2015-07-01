@@ -6,13 +6,19 @@ Code like a pro! Don't waste your time setting up your rails environment every t
 
 See the packages that are in the box
 
-* [Ruby] - Ruby language
-* [Git] - For source control
-* [SQLite] - Database choice
-* [PostgreSQL] - Database choice
-* [MySQL] - Database choice
-* [Nokogiri depencencies] - to get easy to install nokorigir
-* [ExecJS] - for the runtime environment
+* [Build-Essential] - To be able to compile anything from source. Required if you want to work with almost any programming language.
+* [Ruby] - Ruby language. Version: 2.2
+* [Bundler] - For manage dependencies. Version: Latest.
+* [Git] - For source control. Version: Latest.
+* [SQLite3] - For database. Version: Latest.
+* [PostgreSQL] - For database. Version: Latest.
+* [MySQL] - For database. Version: Latest.
+* [Nokogiri depencencies] - (libxml2 libxml2-dev libxslt1-de) to get easy to install nokogiri.
+* [Node.js] - for the runtime environment.
+
+### Additional Information
+
+* A superuser called 'vagrant' is already created for PostgreSQL.
 
 ### Installation
 
