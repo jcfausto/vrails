@@ -56,7 +56,7 @@ install 'ExecJS runtime' nodejs
 update-locale LANG=en_US.UTF-8 LANGUAGE=en_US.UTF-8 LC_ALL=en_US.UTF-8
 
 #Install Rails Version 4.2.1
-gem install rails -v 4.2.1 -N >/dev/null 2>&
+gem install rails -v 4.2.1 -N >/dev/null 2>&1
 
 echo 'Great! You Are Ready To Go!'
 
