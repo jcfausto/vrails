@@ -31,16 +31,16 @@ $ vagrant up
 
 ### Troubles?
 
-Question:
+**Question:**
 
 Can´t connect via http://localhost:3000 on host machine.
 
-Answer: 
+**Answer:**
 
 Start your application with rails s -b 0.0.0.0. 
-Deails here (http://stackoverflow.com/questions/27627286/cant-connect-localhost3000-ruby-on-rails-in-vagrant)
+Details here (http://edgeguides.rubyonrails.org/4_2_release_notes.html) and here (http://stackoverflow.com/questions/27627286/cant-connect-localhost3000-ruby-on-rails-in-vagrant).
 
 ### License
-----
+
 
 MIT. Feel free to use :-)
