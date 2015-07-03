@@ -37,8 +37,9 @@ Can´t connect via http://localhost:3000 on host machine.
 
 **Answer:**
 
-Start your application with rails s -b 0.0.0.0. 
-Details here (http://edgeguides.rubyonrails.org/4_2_release_notes.html) and here (http://stackoverflow.com/questions/27627286/cant-connect-localhost3000-ruby-on-rails-in-vagrant).
+Start your application with rails s -b 0.0.0.0.
+
+Details [here](http://edgeguides.rubyonrails.org/4_2_release_notes.html) and [here](http://stackoverflow.com/questions/27627286/cant-connect-localhost3000-ruby-on-rails-in-vagrant).
 
 ### License
 
